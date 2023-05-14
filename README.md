@@ -5,7 +5,7 @@ The jupyter lab file attached to this repository is for pulling data from yfinan
 
 In the future I will provide updates for the tools that are more interactive and will be rolling out a desktop application for pulling the data needed to run the excel file. Meaning that users that do not know how to use python will also have access to these tools and trading systems. 
 
-![S P Stylebox](https://github.com/monicacw21/S-P-Stylebox-Trading-System/assets/101022450/fe5ea9b4-e5e8-4705-9445-9401cac8f9d7)
+![S P Stylebox](https://github.com/monicacw21/S-P-Stylebox-Trading-System/assets/101022450/5f53abd5-dcde-4c86-b072-218f55f12770)
 Source: www.portfoliovisualizer.com
 
 Meb Faber's Research: https://mebfaber.com/white-papers/
