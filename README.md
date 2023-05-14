@@ -5,7 +5,7 @@ The jupyter lab file attached to this repository is for pulling data from yfinan
 
 In the future I will provide updates for the tools that are more interactive and will be rolling out a desktop application for pulling the data needed to run the excel file. Meaning that users that do not know how to use python will also have access to these tools and trading systems. 
 
-![GlobalSectors](https://github.com/monicacw21/Global-Sector-Trading-System/assets/101022450/0b788e1a-5638-4a34-b9fc-8ba19175d58d)
+
 Source: www.portfoliovisualizer.com
 
 Meb Faber's Research: https://mebfaber.com/white-papers/
