@@ -3,6 +3,9 @@ This is a trading system with the same methodologies of Meb Faber's, but applied
 
 The jupyter lab file attached to this repository is for pulling data from yfinance which is a python library that provides free market data. From there the excel file is automated to provide buy signals once data is updated. Trades are only placed at the end of the month, and assets that do not have a positive momentum read are excluded and that portion should be cash for the next month. Also, if the asset is not above it's 168 day or 8 month SMA (simple moving averge) the asset is also excluded from trading. The excel file already takes these variables into account when providing buy signals. 
 
+*Note:
+There is also a python script attached for those not interested in excel data usage. The script will automatically pull and print the top 5 momentum assets within python. 
+
 In the future I will provide updates for the tools that are more interactive and will be rolling out a desktop application for pulling the data needed to run the excel file. Meaning that users that do not know how to use python will also have access to these tools and trading systems. 
 
 Note:
